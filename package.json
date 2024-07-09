@@ -42,7 +42,7 @@
     "@nguniversal/express-engine": "^7.0.2",
     "@nguniversal/module-map-ngfactory-loader": "v7.0.2",
     "angular-cli-ghpages": "^0.6.0",
-    "angulartics2": "latest",
+    "angulartics2": "^9.1.0",
     "express": "^4.15.2",
     "linkifyjs": "^2.1.8",
     "ngx-markdown": "^8.2.1",
