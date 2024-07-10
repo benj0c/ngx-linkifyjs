@@ -1,5 +1,5 @@
 {
-  "name": "ngx-linkifyjs",
+  "name": "@referrizer@ngx-linkifyjs",
   "description": "Angular V7 wrapper for linkifyjs -  library for finding links in plain text and converting them to HTML &lt;a&gt; tags via linkifyjs",
   "version": "1.4.0",
   "homepage": "https://anthonynahas.github.io/ngx-linkifyjs",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/anthonynahas/ngx-linkifyjs.git"
+    "url": "git://github.com/referrizer/ngx-linkifyjs.git"
   },
   "license": "MIT",
   "schematics": "./schematics/collection.json",
@@ -28,7 +28,7 @@
     "mentionsm"
   ],
   "bugs": {
-    "url": "https://github.com/anthonynahas/ngx-linkifyjs/issues"
+    "url": "https://github.com/referrizer/ngx-linkifyjs/issues"
   },
   "private": true,
   "scripts": {
